@@ -37,3 +37,7 @@ it is like downloading to your remote repository
 **README contains details about what a repository is all about
 **Gitignore allows to list important credentials that are not meant to be exposed to the public such as API key, Server IP address
 **Repo branch stores different source codes [git branch -M branch-name] 
+
+
+
+lets try and edit from the readme and push to see
